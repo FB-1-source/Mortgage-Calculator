@@ -27,6 +27,8 @@ body {
 button {
   margin-top: 2rem;
   border-radius: 15px;
+  color: #212121;
+  background-color: white;
 }
 
 @media (max-width: 700px) {
